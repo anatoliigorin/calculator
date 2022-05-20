@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\tlkch\source\repos\complexcalculator\MyForm.h(694,27): warning C4244: аргумент: преобразование "double" в "const std::complex<float>::_Ty", возможна потеря данных
+C:\Users\tlkch\source\repos\complexcalculator\MyForm.h(694,21): warning C4244: аргумент: преобразование "double" в "const std::complex<float>::_Ty", возможна потеря данных
+C:\Users\tlkch\source\repos\complexcalculator\MyForm.h(716,28): warning C4244: аргумент: преобразование "double" в "const std::complex<float>::_Ty", возможна потеря данных
+C:\Users\tlkch\source\repos\complexcalculator\MyForm.h(716,21): warning C4244: аргумент: преобразование "double" в "const std::complex<float>::_Ty", возможна потеря данных
+C:\Users\tlkch\source\repos\complexcalculator\MyForm.h(719,28): warning C4244: аргумент: преобразование "double" в "const std::complex<float>::_Ty", возможна потеря данных
+C:\Users\tlkch\source\repos\complexcalculator\MyForm.h(719,21): warning C4244: аргумент: преобразование "double" в "const std::complex<float>::_Ty", возможна потеря данных
+C:\Users\tlkch\source\repos\complexcalculator\MyForm.cpp(7,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  complexcalculator.vcxproj -> C:\Users\tlkch\source\repos\complexcalculator\Debug\complexcalculator.exe

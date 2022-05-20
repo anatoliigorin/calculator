@@ -1,0 +1,4 @@
+C:\Users\tlkch\source\repos\complexcalculator\Debug\complexcalculator.vcxproj.AssemblyReference.cache
+C:\Users\tlkch\source\repos\complexcalculator\Debug\complexcalculator.exe
+C:\Users\tlkch\source\repos\complexcalculator\Debug\complexcalculator.MyForm.resources
+C:\Users\tlkch\source\repos\complexcalculator\Debug\complexcalculator.vcxproj.GenerateResource.cache
